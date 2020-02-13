@@ -1,0 +1,17 @@
+{
+	"name": "com.famoz.localpackagetest",
+	"version": "0.0.2",
+	"displayName": "FAMOZ Local Package Test",
+	"description": "파모즈 패키지 테스트를 위한 패키지이다람쥐.\n\u25AA 넌 나에게 모욕감을 줬어.\n\u25AA 요태까지 날 미행한고야?",
+	"unity": "2018.3",
+	"keywords": [
+		"famoz",
+		"project",
+		"template"
+	],
+	"author": {
+		"name": "FAMOZ",
+		"email": "wwer20001@famoz.co.kr",
+		"url": "https://www.famoz.co.kr/"
+	}
+}
